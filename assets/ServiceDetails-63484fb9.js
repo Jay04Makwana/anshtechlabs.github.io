@@ -10,10 +10,10 @@ import {
   h as o,
   i as g,
 } from './index-7ebd65cb.js'
-const b = 'images/solution-img/1.jpg',
-  f = 'images/solution-img/2.jpg',
-  x = 'images/services-details/1.jpg',
-  _ = 'images/services-details/2.jpg'
+const b = '/images/solution-img/1.jpg',
+  f = '/images/solution-img/2.jpg',
+  x = '/images/services-details/1.jpg',
+  _ = '/images/services-details/2.jpg'
 const y = {
     components: { BlogAside: u },
     setup() {

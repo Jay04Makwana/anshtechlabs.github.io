@@ -17,11 +17,11 @@ import {
   P as $,
   F as j,
 } from './index-7ebd65cb.js'
-const D = 'images/bg.jpg',
-  I = 'images/client-img/1.jpg',
-  E = 'images/client-img/2.jpg',
-  L = 'images/client-img/3.jpg',
-  B = 'images/client-img/4.jpg'
+const D = '/images/bg.jpg',
+  I = '/images/client-img/1.jpg',
+  E = '/images/client-img/2.jpg',
+  L = '/images/client-img/3.jpg',
+  B = '/images/client-img/4.jpg'
 const P = {
     components: { Swiper: h, SwiperSlide: w },
     setup() {

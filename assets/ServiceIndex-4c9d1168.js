@@ -16,9 +16,9 @@ import {
   e as j,
   F as A,
 } from './index-7ebd65cb.js'
-const f = 'images/project/1.jpg',
-  b = 'images/project/2.jpg',
-  h = 'images/project/3.jpg'
+const f = '/images/project/1.jpg',
+  b = '/images/project/2.jpg',
+  h = '/images/project/3.jpg'
 const $ = {
     components: { Swiper: w, SwiperSlide: y },
     setup() {

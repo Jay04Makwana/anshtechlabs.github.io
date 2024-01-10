@@ -9,9 +9,9 @@ import {
   h as x,
   i as g,
 } from './index-7ebd65cb.js'
-const b = 'images/blog/7.jpg',
-  h = 'images/blog/8.jpg',
-  f = 'images/blog/9.jpg',
+const b = '/images/blog/7.jpg',
+  h = '/images/blog/8.jpg',
+  f = '/images/blog/9.jpg',
   v = {
     components: { BlogAside: d },
     data() {
