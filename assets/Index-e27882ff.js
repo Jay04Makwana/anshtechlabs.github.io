@@ -19,12 +19,16 @@ import {
   q as S,
   i as j,
 } from './index-7ebd65cb.js'
-const B = '/images/blog-details.jpg',
-  R = '/images/blog/4.jpg',
-  A = '/images/blog/5.jpg',
-  L = '/images/blog-details/comment-img-1.jpg',
-  C = '/images/blog-details/comment-img-2.jpg',
-  J = '/images/blog-details/comment-img-3.jpg'
+const B =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog-details.jpg',
+  R = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog/4.jpg',
+  A = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog/5.jpg',
+  L =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog-details/comment-img-1.jpg',
+  C =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog-details/comment-img-2.jpg',
+  J =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog-details/comment-img-3.jpg'
 const M = {
     components: { BlogAside: y },
     setup: () => ({ v$: k() }),

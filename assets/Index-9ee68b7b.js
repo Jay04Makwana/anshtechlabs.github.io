@@ -9,9 +9,10 @@ import {
   h as x,
   i as g,
 } from './index-7ebd65cb.js'
-const b = '/images/blog/7.jpg',
-  h = '/images/blog/8.jpg',
-  f = '/images/blog/9.jpg',
+const b =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog/7.jpg',
+  h = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog/8.jpg',
+  f = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/blog/9.jpg',
   v = {
     components: { BlogAside: d },
     data() {

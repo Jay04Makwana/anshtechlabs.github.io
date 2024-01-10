@@ -9529,16 +9529,26 @@ function cf(e) {
     freeMode: { onTouchStart: n, onTouchMove: o, onTouchEnd: a },
   })
 }
-const qo = '/images/partner-logo/1.png',
-  Go = '/images/partner-logo/6.png',
-  Wo = '/images/partner-logo/2.png',
-  Uo = '/images/partner-logo/7.png',
-  Ko = '/images/partner-logo/3.png',
-  Yo = '/images/partner-logo/8.png',
-  Xo = '/images/partner-logo/4.png',
-  Qo = '/images/partner-logo/9.png',
-  Jo = '/images/partner-logo/5.png',
-  Zo = '/images/partner-logo/10.png',
+const qo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/1.png',
+  Go =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/6.png',
+  Wo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/2.png',
+  Uo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/7.png',
+  Ko =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/3.png',
+  Yo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/8.png',
+  Xo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/4.png',
+  Qo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/9.png',
+  Jo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/5.png',
+  Zo =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/partner-logo/10.png',
   et = (e, t) => {
     const s = e.__vccOpts || e
     for (const [i, r] of t) s[i] = r
@@ -9786,7 +9796,8 @@ function Of(e, t) {
   return ce(), ve('section', Cf, Mf)
 }
 const Af = et(Pf, [['render', Of]]),
-  Lf = '/images/approach-img.jpg',
+  Lf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/approach-img.jpg',
   Rf = {},
   kf = { class: 'py-24' },
   zf = Fe(
@@ -9800,12 +9811,18 @@ function Df(e, t) {
   return ce(), ve('section', kf, $f)
 }
 const Bf = et(Rf, [['render', Df]]),
-  jf = '/images/performance/p1.jpg',
-  Nf = '/images/performance/p2.jpg',
-  Ff = '/images/performance/p3.jpg',
-  Hf = '/images/performance/p4.jpg',
-  Vf = '/images/performance/p5.jpg',
-  qf = '/images/performance/p6.jpg',
+  jf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p1.jpg',
+  Nf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p2.jpg',
+  Ff =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p3.jpg',
+  Hf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p4.jpg',
+  Vf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p5.jpg',
+  qf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/performance/p6.jpg',
   Gf = {},
   Wf = { class: 'py-24' },
   Uf = Fe(
@@ -9829,7 +9846,8 @@ function Yf(e, t, s, i, r, n) {
   return ce(), ve('section', Wf, Kf)
 }
 const Xf = et(Gf, [['render', Yf]]),
-  Qf = '/images/electronic-img.png',
+  Qf =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/electronic-img.png',
   Jf = {
     data() {
       return {
@@ -10060,7 +10078,8 @@ function Lp(e, t, s, i, r, n) {
   )
 }
 const Rp = et(Jf, [['render', Lp]]),
-  kp = '/images/complete-img.jpg',
+  kp =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/complete-img.jpg',
   zp = { class: 'py-24' },
   $p = { class: 'max-w-[540px] md:max-w-[720px] lg:max-w-full mx-auto' },
   Dp = { class: 'grid grid-cols-12' },
@@ -10095,7 +10114,8 @@ const Rp = et(Jf, [['render', Lp]]),
       )
     },
   },
-  Fp = '/images/cybersecurity-img.jpg',
+  Fp =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/cybersecurity-img.jpg',
   Hp = { class: 'py-24' },
   Vp = { class: 'max-w-[540px] md:max-w-[720px] lg:max-w-full mx-auto' },
   qp = { class: 'grid grid-cols-12' },
@@ -10133,9 +10153,12 @@ const Rp = et(Jf, [['render', Lp]]),
       )
     },
   },
-  Kp = '/images/BlogAreaImg/blog1.jpg',
-  Yp = '/images/BlogAreaImg/blog2.jpg',
-  Xp = '/images/BlogAreaImg/blog3.jpg',
+  Kp =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/BlogAreaImg/blog1.jpg',
+  Yp =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/BlogAreaImg/blog2.jpg',
+  Xp =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/BlogAreaImg/blog3.jpg',
   Qp = {},
   Jp = { class: 'py-24' },
   Zp = Fe(
@@ -10293,7 +10316,8 @@ const nh = et(ih, [['render', rh]]),
       return { top: 0 }
     },
   }),
-  ch = '/images/page-bg.png',
+  ch =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/page-bg.png',
   uh = {
     setup() {
       return { pagebg: ch }
@@ -10402,7 +10426,8 @@ function gh(e, t, s, i, r, n) {
   )
 }
 const vh = et(uh, [['render', gh]]),
-  bh = '/images/background_Img.jpg'
+  bh =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/background_Img.jpg'
 const xh = {
     components: { BreadCrumb: vh },
     setup() {
@@ -10793,7 +10818,8 @@ function tm(e, t, s, i, r, n) {
   )
 }
 const sm = et(xh, [['render', tm]]),
-  im = '/images/footer-bg.jpg',
+  im =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/footer-bg.jpg',
   rm = Fe(
     '<div class="container mx-auto bg-opacity-90 p-8"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8"><div class="col-span-2 md:col-span-1"><div class="text-white"><h3 class="text-lg font-semibold mb-4 underline underline-offset-8">Contact Us</h3><ul><li><a href="tel:+892-569-756" class="flex flex-col py-1"><i class="pi pi-phone mr-2 text-rose-600"><span class="font-bold text-white px-2">Hotline:</span></i><span class="hover:text-rose-600 duration-700 px-6 py-1">Phone: +892-569-756</span></a></li><li><a href="mailto:hello@seku.com" class="flex flex-col py-1"><i class="pi pi-envelope mr-2 text-rose-600"><span class="font-bold text-white px-2">Email:</span></i><span class="hover:text-rose-600 duration-700 px-6 py-1">hello@seku.com</span></a></li><li class="flex flex-col py-2"><i class="pi pi-map-marker mr-2 text-rose-600"><span class="font-bold text-white px-2">Address:</span></i><span class="px-6 py-1">658 Lane Drive st Riverside. California</span></li></ul></div></div><div class="col-span-2 md:col-span-1"><div class="text-white"><h3 class="text-lg font-semibold mb-4 underline underline-offset-8">Services Link</h3><ul><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Web Site Protection </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Hosting &amp; Server Guard </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Web Administrator </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Conducting Training </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> GRPS Smart Protection </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Security App </a></li></ul></div></div><div class="col-span-2 md:col-span-1"><div class="text-white"><h3 class="text-lg font-semibold mb-4 underline underline-offset-8">Support &amp; Help</h3><ul><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Support Forum </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> FAQ Questions </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> 24/7 Support for Help </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Counseling </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Protection </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Security </a></li></ul></div></div><div class="col-span-2 md:col-span-1"><div class="text-white"><h3 class="text-lg font-semibold mb-4 underline underline-offset-8">Quick Links</h3><ul><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Security </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Protection </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Antivirus Packages </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Security App </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Website Security </a></li><li class="py-1"><a href="#" class="flex items-center hover:text-rose-600 duration-700 transition ease-in-out delay-150 hover:translate-x-2 hover:scale-100"><i class="pi pi-angle-double-right mr-2 text-rose-600"></i> Degital Security </a></li></ul></div></div></div></div>',
     1
@@ -10829,8 +10855,8 @@ const sm = et(xh, [['render', tm]]),
       )
     },
   },
-  am = '/images/sunny.png',
-  cm = '/images/night.png'
+  am = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/sunny.png',
+  cm = 'https://jay04makwana.github.io/anshtechlabs.github.io/images/night.png'
 function el(e) {
   return Rn() ? (Sl(e), !0) : !1
 }

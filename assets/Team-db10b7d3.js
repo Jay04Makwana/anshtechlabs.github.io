@@ -6,14 +6,22 @@ import {
   r as u,
   i as x,
 } from './index-7ebd65cb.js'
-const c = '/images/TeamImg/1.jpg',
-  g = '/images/TeamImg/2.jpg',
-  v = '/images/TeamImg/3.jpg',
-  h = '/images/TeamImg/4.jpg',
-  m = '/images/TeamImg/5.jpg',
-  b = '/images/TeamImg/6.jpg',
-  f = '/images/TeamImg/7.jpg',
-  y = '/images/TeamImg/8.jpg',
+const c =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/1.jpg',
+  g =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/2.jpg',
+  v =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/3.jpg',
+  h =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/4.jpg',
+  m =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/5.jpg',
+  b =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/6.jpg',
+  f =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/7.jpg',
+  y =
+    'https://jay04makwana.github.io/anshtechlabs.github.io/images/TeamImg/8.jpg',
   w = {},
   _ = { class: 'py-24' },
   k = n(

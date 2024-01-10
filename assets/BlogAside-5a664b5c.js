@@ -74,7 +74,7 @@ function L(d, c, e, n, b, h) {
                 'h-[130px] w-[130px] inline-block bg-cover bg-repeat bg-center relative bg-[#0e0129]',
               role: 'img',
               style: S({
-                'background-image': `url('/images/popular-posts/${e.postData.postImage}')`,
+                'background-image': `url('https://jay04makwana.github.io/anshtechlabs.github.io/images/popular-posts/${e.postData.postImage}')`,
               }),
             },
             null,
