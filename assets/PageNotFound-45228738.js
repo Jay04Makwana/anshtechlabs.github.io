@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as e}from"./index-32023084.js";const n={},c={class:"flex justify-center text-8xl pt-20 font-barlow font-bold"};function s(r,a){return t(),e("div",c,"Oops Page not found!")}const _=o(n,[["render",s]]);export{_ as default};
